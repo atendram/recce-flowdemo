@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#123531" />
+    <title>RecceFlow · Client demo</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="spreadsheet.js"></script>
+    <script defer src="assets/sample-photo.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="#overview"
+          ><span class="brand-mark">r.</span>Recce<span>Flow</span></a
+        >
+        <p class="sidebar-caption">FROM SITE TO SIGN-OFF</p>
+        <nav id="navigation" aria-label="Main navigation"></nav>
+        <div class="sidebar-bottom">
+          <span class="live-dot"></span> Client presentation demo
+          <p>Sample data · saved on this device</p>
+          <a href="README.html" target="_blank">Quick start & sharing ↗</a>
+        </div>
+      </aside>
+      <div class="workspace">
+        <header class="topbar">
+          <div class="breadcrumb">
+            Workspace <span>/</span> <strong id="breadcrumb">Overview</strong>
+          </div>
+          <div class="topbar-actions">
+            <span class="demo-tag">INTERACTIVE DEMO</span
+            ><label class="view-switch"
+              ><span class="sr-only">Preview perspective</span
+              ><select id="perspective">
+                <option value="office">Office view</option>
+                <option value="field">Recce view</option>
+              </select></label
+            ><button
+              class="avatar"
+              id="help-button"
+              aria-label="Demo instructions"
+            >
+              ?
+            </button>
+          </div>
+        </header>
+        <main id="main" tabindex="-1"></main>
+        <footer class="workspace-footer">
+          RecceFlow
+          <span>Local prototype · no login · no server connection</span
+          ><button class="text-button" id="backup-button">
+            Save demo backup
+          </button>
+        </footer>
+      </div>
+    </div>
+    <dialog id="modal" aria-labelledby="modal-title">
+      <header class="modal-header">
+        <div>
+          <span id="modal-kicker" class="eyebrow"></span>
+          <h2 id="modal-title"></h2>
+        </div>
+        <button id="close-modal" class="icon-button" aria-label="Close dialog">
+          ×
+        </button>
+      </header>
+      <div id="modal-body"></div>
+    </dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <input id="import-file" type="file" accept=".csv,.xlsx" hidden />
+    <input id="restore-file" type="file" accept=".json" hidden />
+  </body>
+</html>

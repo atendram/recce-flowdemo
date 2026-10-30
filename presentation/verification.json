@@ -1,0 +1,21 @@
+{
+  "passed": [
+    "Standalone file opens without login, server or external requests",
+    "Every menu fits phone, tablet and desktop viewports",
+    "Custom catalog material persists through reload",
+    "Manual job creation and dashboard card filtering",
+    "Worker starts a visit and preserves site notes",
+    "Canvas shapes save on a direct file origin and export real PNG",
+    "Repeated materials, independent markings and measured area",
+    "Submit, office verify, read-only review and all-image ZIP",
+    "Reassignment retains the saved job and its evidence",
+    "Reports filter and reorder columns; genuine XLSX, CSV and print output",
+    "Excel import preview and confirmed import, with duplicate protection",
+    "Local support status, escalation and reply history",
+    "Backup contains no credentials; malformed restore is rejected",
+    "Phone recce and overview capture with no horizontal overflow"
+  ],
+  "browserErrors": [],
+  "externalRequests": [],
+  "testedAt": "2026-10-30T09:52:56.692Z"
+}

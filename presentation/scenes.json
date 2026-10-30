@@ -1,0 +1,47 @@
+[
+  {
+    "shot": "01-overview",
+    "en": {"title":"From site visit to a clear decision.","subtitle":"Meet RecceFlow","points":["Plan the visit","Record every material","Review with confidence"],"narration":"Meet RecceFlow, a simpler way to manage signage site surveys. Bring the site visit, material measurements, marked photos and office review into one clear journey. Here is the interactive client prototype."},
+    "hi": {"title":"साइट विज़िट से सही निर्णय तक।","subtitle":"मिलिए RecceFlow से","points":["विज़िट की योजना","हर मटेरियल का रिकॉर्ड","आसानी से रिव्यू"],"narration":"मिलिए रेकी फ्लो से। साइन बोर्ड की साइट सर्वे प्रक्रिया को आसान बनाने वाला एक व्यवस्थित तरीका। साइट विज़िट, मटेरियल की माप, मार्क की गई तस्वीरें और ऑफिस रिव्यू, सब एक ही जगह। आइए इसका इंटरैक्टिव प्रोटोटाइप देखें।"}
+  },
+  {
+    "shot":"03-job-register",
+    "en":{"title":"A clear plan for every site.","subtitle":"01 / Plan the work","points":["Create a job or import Excel","Shop, client and recce person","Track progress with colour tags"],"narration":"Start by creating a recce job, or import the supplied Excel or CSV template. Add the shop, client, address and recce person. Colour labels make pending work and new submissions easy to find."},
+    "hi":{"title":"हर साइट के लिए साफ़ योजना।","subtitle":"01 / काम की तैयारी","points":["नया जॉब या Excel इम्पोर्ट","दुकान, क्लाइंट और रेकी व्यक्ति","रंगों से स्टेटस पहचानें"],"narration":"नया रेकी जॉब बनाइए, या दिए गए एक्सेल और सी एस वी टेम्पलेट से जॉब जोड़िए। दुकान, क्लाइंट, पता और रेकी करने वाले व्यक्ति का नाम भरिए। रंगीन स्टेटस से पेंडिंग काम और नए सबमिशन आसानी से पहचानिए।"}
+  },
+  {
+    "shot":"04-site-details",
+    "en":{"title":"The visit starts here.","subtitle":"02 / Capture site details","points":["Device location or typed address","Type or record site notes","Keep visit details together"],"narration":"The recce person opens the job and starts the visit. Capture the device location when permission is available, or enter the address. Type observations or record a voice note about access, mounting and power."},
+    "hi":{"title":"यहीं से शुरू होती है विज़िट।","subtitle":"02 / साइट की जानकारी","points":["डिवाइस लोकेशन या लिखा हुआ पता","बोलकर या लिखकर साइट नोट","विज़िट की जानकारी एक साथ"],"narration":"रेकी करने वाला व्यक्ति जॉब खोलकर विज़िट शुरू करता है। अनुमति मिलने पर डिवाइस की लोकेशन लें, या साइट का पता लिखें। रास्ते, फिटिंग की जगह और बिजली की सुविधा जैसे नोट लिखें, या बोलकर वॉइस नोट रिकॉर्ड करें।"}
+  },
+  {
+    "shot":"06-material-items",
+    "en":{"title":"One physical item. One clear record.","subtitle":"03 / Add materials","points":["Separate repeated boards","Width × height, length or count","Choose or type the placement"],"narration":"Add a separate card for each physical material, even when two boards use the same material. Enter width and height, length or count. Choose a placement or write your own. Rectangular area follows the measurements entered on site."},
+    "hi":{"title":"हर मटेरियल का अलग रिकॉर्ड।","subtitle":"03 / मटेरियल जोड़ें","points":["एक जैसे बोर्ड भी अलग आइटम","चौड़ाई, ऊँचाई, लंबाई या गिनती","प्लेसमेंट चुनें या खुद लिखें"],"narration":"हर असली मटेरियल के लिए अलग कार्ड जोड़ें। एक जैसे दो बोर्ड हों, तब भी दोनों का रिकॉर्ड अलग रखें। चौड़ाई और ऊँचाई, लंबाई या गिनती भरें। प्लेसमेंट चुनें या खुद लिखें। आयताकार क्षेत्रफल, साइट पर ली गई माप से निकलता है।"}
+  },
+  {
+    "shot":"05-image-marking",
+    "en":{"title":"Make the photo explain the work.","subtitle":"04 / Mark the evidence","points":["Camera capture or photo upload","Shapes, colours and freehand","Dimensions on the marked image"],"narration":"Capture or upload a site photo, then mark the relevant material using shapes, colours or freehand drawing. The item code and entered dimensions appear on the image. Save multiple independent views and download a marked image or the job's complete image ZIP."},
+    "hi":{"title":"तस्वीर खुद काम समझाए।","subtitle":"04 / इमेज मार्किंग","points":["कैमरे से फोटो या अपलोड","शेप, रंग और फ्रीहैंड ड्रॉइंग","तस्वीर पर माप और आइटम कोड"],"narration":"कैमरे से तस्वीर लें या फोटो अपलोड करें। शेप, रंग और फ्रीहैंड ड्रॉइंग से संबंधित मटेरियल मार्क करें। आइटम कोड और भरी हुई माप तस्वीर पर दिखाई देती है। अलग व्यू सेव करें। एक मार्क की हुई तस्वीर, या पूरे जॉब की तस्वीरें ज़िप में डाउनलोड करें।"}
+  },
+  {
+    "shot":"07-review",
+    "en":{"title":"Review once. Move forward clearly.","subtitle":"05 / Submit and verify","points":["Check measurements and marking","Return work for correction","Preserve notes when reassigning"],"narration":"Review the site details and material evidence before submitting. The office can verify the recce or request corrections. If the assigned person becomes unavailable, reassign editable work while keeping its saved photos and notes together."},
+    "hi":{"title":"रिव्यू करें, फिर आगे बढ़ें।","subtitle":"05 / सबमिट और वेरिफ़ाई","points":["माप और मार्किंग की जाँच","ज़रूरत पर करेक्शन माँगें","दोबारा असाइन करते समय रिकॉर्ड सुरक्षित"],"narration":"सबमिट करने से पहले साइट की जानकारी, माप और मार्क की गई तस्वीरें जाँचें। ऑफिस रेकी वेरिफ़ाई कर सकता है, या सुधार माँग सकता है। व्यक्ति उपलब्ध न हो तो एडिट होने वाला काम दूसरे को असाइन करें। सेव की गई तस्वीरें और नोट उसी जॉब में रहते हैं।"}
+  },
+  {
+    "shot":"08-report",
+    "en":{"title":"A report that fits your client.","subtitle":"06 / Export the details","points":["Filter the jobs you need","Choose and reorder columns","Excel, CSV or Print / Save PDF"],"narration":"Build a material report for one job or a filtered set. Choose the columns, set their order and add a client heading. Export Excel or CSV, or use Print and Save as PDF to include visible photos."},
+    "hi":{"title":"क्लाइंट के अनुसार रिपोर्ट।","subtitle":"06 / रिपोर्ट और एक्सपोर्ट","points":["ज़रूरी जॉब फ़िल्टर करें","कॉलम चुनें और क्रम बदलें","Excel, CSV या Print / Save PDF"],"narration":"एक जॉब की मटेरियल रिपोर्ट बनाएँ, या कई जॉब फ़िल्टर करें। ज़रूरी कॉलम चुनें, उनका क्रम बदलें और क्लाइंट का हेडिंग जोड़ें। एक्सेल या सी एस वी डाउनलोड करें। तस्वीरों सहित रिपोर्ट के लिए प्रिंट और सेव ऐज़ पी डी एफ चुनें।"}
+  },
+  {
+    "shot":"09-support",
+    "en":{"title":"Keep questions moving, too.","subtitle":"07 / Support and follow-up","points":["Type or record an issue","Office-to-developer handoff","Pending → Processing → Resolved"],"narration":"Raise an issue by typing or recording a note. Demonstrate office and developer replies, and track Pending, Processing and Resolved status. This portable prototype saves data only in your browser; support messages here are a local simulation."},
+    "hi":{"title":"सवालों का भी ट्रैक रखें।","subtitle":"07 / सपोर्ट और फॉलो-अप","points":["लिखकर या बोलकर समस्या बताएँ","ऑफिस से डेवलपर तक मदद","Pending → Processing → Resolved"],"narration":"समस्या लिखकर या वॉइस नोट से जोड़ें। ऑफिस और डेवलपर के जवाब दिखाएँ। पेंडिंग, प्रोसेसिंग और रिज़ॉल्व्ड स्टेटस ट्रैक करें। यह पोर्टेबल प्रोटोटाइप डेटा सिर्फ आपके ब्राउज़र में सेव करता है। इसमें सपोर्ट के संदेश लोकल डेमो हैं।"}
+  },
+  {
+    "shot":"01-overview",
+    "en":{"title":"See it. Try it. Shape it with us.","subtitle":"RecceFlow","points":["Open the interactive demo","Explore with sample records","Request a personalised demo"],"narration":"Open the interactive demo and try the complete journey with sample records. RecceFlow: clearer site evidence, smoother office review. Request a personalised demo for your team."},
+    "hi":{"title":"देखें। आज़माएँ। अपने काम के अनुसार बनाएँ।","subtitle":"RecceFlow","points":["इंटरैक्टिव डेमो खोलें","सैंपल रिकॉर्ड से आज़माएँ","अपनी टीम के लिए डेमो माँगें"],"narration":"इंटरैक्टिव डेमो खोलें और सैंपल रिकॉर्ड के साथ पूरा सफ़र आज़माएँ। रेकी फ्लो। साइट का साफ़ रिकॉर्ड, ऑफिस का आसान रिव्यू। अपनी टीम के लिए पर्सनल डेमो माँगें।"}
+  }
+]

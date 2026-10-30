@@ -1,0 +1,3 @@
+recce_id,shop_name,client_name,site_address,recce_person,due_date,contact,instructions
+RF-2001,Example Shop,Demo Retail,"Andheri West, Mumbai",Ravi,2026-11-01,,Measure front fascia and side board
+RF-2002,Example Pharmacy,Demo Retail,"Powai, Mumbai",Asha,2026-11-02,,Check mounting surface and power point

@@ -1,0 +1,21 @@
+{
+  "voiceOnlySupport": true,
+  "validBackupRestore": true,
+  "unsafeIdentifierRejected": true,
+  "videos": [
+    {
+      "duration": 112.255339,
+      "width": 1920,
+      "height": 1080,
+      "error": null
+    },
+    {
+      "duration": 112.189333,
+      "width": 1920,
+      "height": 1080,
+      "error": null
+    }
+  ],
+  "browserErrors": [],
+  "testedAt": "2026-10-30T10:02:15.601Z"
+}

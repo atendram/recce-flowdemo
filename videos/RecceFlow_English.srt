@@ -1,0 +1,111 @@
+1
+00:00:00,000 --> 00:00:03,487
+Meet RecceFlow, a simpler way to manage signage site surveys.
+
+2
+00:00:03,487 --> 00:00:09,204
+Bring the site visit, material measurements, marked photos and office review into one clear journey.
+
+3
+00:00:09,204 --> 00:00:11,548
+Here is the interactive client prototype.
+
+4
+00:00:12,000 --> 00:00:16,550
+Start by creating a recce job, or import the supplied Excel or CSV template.
+
+5
+00:00:16,550 --> 00:00:19,363
+Add the shop, client, address and recce person.
+
+6
+00:00:19,363 --> 00:00:23,254
+Colour labels make pending work and new submissions easy to find.
+
+7
+00:00:23,733 --> 00:00:26,602
+The recce person opens the job and starts the visit.
+
+8
+00:00:26,602 --> 00:00:30,960
+Capture the device location when permission is available, or enter the address.
+
+9
+00:00:30,960 --> 00:00:35,042
+Type observations or record a voice note about access, mounting and power.
+
+10
+00:00:35,500 --> 00:00:40,666
+Add a separate card for each physical material, even when two boards use the same material.
+
+11
+00:00:40,666 --> 00:00:42,937
+Enter width and height, length or count.
+
+12
+00:00:42,937 --> 00:00:45,037
+Choose a placement or write your own.
+
+13
+00:00:45,037 --> 00:00:48,330
+Rectangular area follows the measurements entered on site.
+
+14
+00:00:48,800 --> 00:00:54,393
+Capture or upload a site photo, then mark the relevant material using shapes, colours or freehand drawing.
+
+15
+00:00:54,393 --> 00:00:57,401
+The item code and entered dimensions appear on the image.
+
+16
+00:00:57,401 --> 00:01:02,256
+Save multiple independent views and download a marked image or the job's complete image ZIP.
+
+17
+00:01:02,733 --> 00:01:06,137
+Review the site details and material evidence before submitting.
+
+18
+00:01:06,137 --> 00:01:09,062
+The office can verify the recce or request corrections.
+
+19
+00:01:09,062 --> 00:01:15,285
+If the assigned person becomes unavailable, reassign editable work while keeping its saved photos and notes together.
+
+20
+00:01:15,767 --> 00:01:19,047
+Build a material report for one job or a filtered set.
+
+21
+00:01:19,047 --> 00:01:22,752
+Choose the columns, set their order and add a client heading.
+
+22
+00:01:22,752 --> 00:01:27,368
+Export Excel or CSV, or use Print and Save as PDF to include visible photos.
+
+23
+00:01:27,833 --> 00:01:30,354
+Raise an issue by typing or recording a note.
+
+24
+00:01:30,354 --> 00:01:35,507
+Demonstrate office and developer replies, and track Pending, Processing and Resolved status.
+
+25
+00:01:35,507 --> 00:01:41,219
+This portable prototype saves data only in your browser; support messages here are a local simulation.
+
+26
+00:01:41,700 --> 00:01:46,038
+Open the interactive demo and try the complete journey with sample records.
+
+27
+00:01:46,038 --> 00:01:49,335
+RecceFlow: clearer site evidence, smoother office review.
+
+28
+00:01:49,335 --> 00:01:51,765
+Request a personalised demo for your team.

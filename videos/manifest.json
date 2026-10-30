@@ -1,0 +1,29 @@
+{
+  "resolution": "1920x1080",
+  "codec": "H.264 / AAC",
+  "type": "Narrated product explainer with animated screen stills",
+  "videos": [
+    {
+      "language": "English",
+      "file": "RecceFlow_English.mp4",
+      "durationSeconds": 112.25999999999999,
+      "bytes": 3642792,
+      "meanAudioVolumeDb": -24.7,
+      "narrationSpeedFactor": 1.2946296296296296,
+      "verifiedFullDecode": true,
+      "subtitles": "RecceFlow_English.srt",
+      "captionTiming": "Approximate sentence timing based on narration segment duration"
+    },
+    {
+      "language": "Hindi",
+      "file": "RecceFlow_Hindi.mp4",
+      "durationSeconds": 112.19,
+      "bytes": 3588695,
+      "meanAudioVolumeDb": -24.7,
+      "narrationSpeedFactor": 1.5857407407407407,
+      "verifiedFullDecode": true,
+      "subtitles": "RecceFlow_Hindi.srt",
+      "captionTiming": "Approximate sentence timing based on narration segment duration"
+    }
+  ]
+}

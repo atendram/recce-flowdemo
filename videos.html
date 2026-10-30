@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>RecceFlow · Product videos</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      body {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 32px 20px;
+      }
+      .brand {
+        color: #173832;
+        margin-bottom: 35px;
+      }
+      video {
+        width: 100%;
+        display: block;
+        background: #123b30;
+        border-radius: 10px;
+      }
+      .video-grid {
+        display: grid;
+        gap: 25px;
+      }
+      .panel h2 {
+        margin-bottom: 14px;
+      }
+      .panel p {
+        font-size: 12px;
+      }
+      .video-links {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        margin-top: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="index.html" class="brand"
+      ><span class="brand-mark">r.</span>Recce<span>Flow</span></a
+    ><span class="eyebrow">A short product introduction</span>
+    <h1>See the journey in your language.</h1>
+    <p class="muted">
+      Two narrated walkthroughs, each under two minutes. Actual prototype
+      screens, gentle motion and a clear explanation of the workflow.
+    </p>
+    <div class="video-grid">
+      <section class="panel">
+        <h2>English</h2>
+        <video
+          controls
+          preload="metadata"
+          poster="presentation/screenshots/01-overview.png"
+        >
+          <source src="videos/RecceFlow_English.mp4" type="video/mp4" />
+          <track
+            kind="subtitles"
+            src="videos/RecceFlow_English.vtt"
+            srclang="en"
+            label="English captions"
+          />
+          Your browser cannot play this video. Use the download link below.
+        </video>
+        <div class="video-links">
+          <a href="videos/RecceFlow_English.mp4" download
+            >Download English MP4</a
+          ><a href="videos/RecceFlow_English.srt" download
+            >Subtitle file (.srt)</a
+          >
+        </div>
+      </section>
+      <section class="panel">
+        <h2 lang="hi">हिंदी</h2>
+        <video
+          controls
+          preload="metadata"
+          poster="presentation/screenshots/05-image-marking.png"
+        >
+          <source src="videos/RecceFlow_Hindi.mp4" type="video/mp4" />
+          <track
+            kind="subtitles"
+            src="videos/RecceFlow_Hindi.vtt"
+            srclang="hi"
+            label="हिंदी captions"
+          />
+          Your browser cannot play this video. Use the download link below.
+        </video>
+        <div class="video-links">
+          <a href="videos/RecceFlow_Hindi.mp4" download
+            >हिंदी MP4 डाउनलोड करें</a
+          ><a href="videos/RecceFlow_Hindi.srt" download
+            >Subtitle file (.srt)</a
+          >
+        </div>
+      </section>
+    </div>
+    <p class="subtle">
+      AI narration · screenshot-based product explainer · fictional data.
+      Caption timing is approximate. Direct-file browsers can restrict external
+      caption files; MP4s also contain an optional embedded subtitle track. Use
+      a player that supports it, or view the included SRT.
+    </p>
+    <div class="row">
+      <a href="index.html">Try the interactive prototype →</a
+      ><a href="README.html">Quick start</a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "checks": [
+    "Landing, help and device gallery fit 320/390/768/1024/1440px",
+    "Landing opens field view and sample visit with no login",
+    "Office entry opens its dashboard without login",
+    "Hosted browser generates report download",
+    "All four device MP4s play and seek with their expected orientation",
+    "No missing assets or browser exceptions"
+  ],
+  "media": [
+    {
+      "duration": 106.229333,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "duration": 106.270996,
+      "width": 1080,
+      "height": 1920,
+      "error": null
+    },
+    {
+      "duration": 106.229333,
+      "width": 1920,
+      "height": 1080,
+      "error": null
+    },
+    {
+      "duration": 106.270996,
+      "width": 1920,
+      "height": 1080,
+      "error": null
+    }
+  ],
+  "browserErrors": [],
+  "failedResponses": [],
+  "testedAt": "2026-10-30T11:10:44.901Z"
+}

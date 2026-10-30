@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "steps": 9,
+      "browserErrors": [],
+      "simulatedGps": true
+    },
+    {
+      "device": "tablet",
+      "width": 1024,
+      "height": 768,
+      "steps": 9,
+      "browserErrors": [],
+      "simulatedGps": true
+    }
+  ],
+  "testedAt": "2026-10-30T10:26:39.751Z"
+}

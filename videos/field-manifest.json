@@ -1,0 +1,54 @@
+{
+  "type": "Field recce workflow from mobile/tablet viewport captures",
+  "simulatedGps": true,
+  "videos": [
+    {
+      "device": "mobile",
+      "language": "English",
+      "file": "RecceFlow_Mobile_English.mp4",
+      "durationSeconds": 106.23,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 2499131,
+      "verifiedFullDecode": true,
+      "meanAudioVolumeDb": -24.8,
+      "narrationSpeedFactor": 1.1788235294117646
+    },
+    {
+      "device": "tablet",
+      "language": "English",
+      "file": "RecceFlow_Tablet_English.mp4",
+      "durationSeconds": 106.23,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2463832,
+      "verifiedFullDecode": true,
+      "meanAudioVolumeDb": -24.8,
+      "narrationSpeedFactor": 1.1788235294117646
+    },
+    {
+      "device": "mobile",
+      "language": "Hindi",
+      "file": "RecceFlow_Mobile_Hindi.mp4",
+      "durationSeconds": 106.27,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 2483376,
+      "verifiedFullDecode": true,
+      "meanAudioVolumeDb": -24.8,
+      "narrationSpeedFactor": 1.2573529411764706
+    },
+    {
+      "device": "tablet",
+      "language": "Hindi",
+      "file": "RecceFlow_Tablet_Hindi.mp4",
+      "durationSeconds": 106.27,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2439376,
+      "verifiedFullDecode": true,
+      "meanAudioVolumeDb": -24.8,
+      "narrationSpeedFactor": 1.2573529411764706
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+1
+00:00:00,000 --> 00:00:02,730
+RecceFlow puts the field visit in your hands.
+
+2
+00:00:02,730 --> 00:00:08,432
+On a phone or tablet, open your assigned jobs, check the shop and client, and start the recce.
+
+3
+00:00:08,917 --> 00:00:10,720
+Begin with the site details.
+
+4
+00:00:10,720 --> 00:00:14,971
+Allow device location when available, or type the correct address.
+
+5
+00:00:14,971 --> 00:00:18,706
+Add the contact and any instructions needed for the visit.
+
+6
+00:00:19,167 --> 00:00:21,131
+Explain what you see on site.
+
+7
+00:00:21,131 --> 00:00:26,075
+Type your notes about access, mounting and power, or record a voice note.
+
+8
+00:00:26,075 --> 00:00:28,174
+Listen to it before continuing.
+
+9
+00:00:28,174 --> 00:00:31,628
+Recording does not automatically transcribe speech.
+
+10
+00:00:32,083 --> 00:00:34,365
+Add each physical material separately.
+
+11
+00:00:34,365 --> 00:00:38,809
+Enter width and height, length or count, and choose or type its placement.
+
+12
+00:00:38,809 --> 00:00:44,214
+Rectangular area is calculated from your entered measurements, never guessed from a photo.
+
+13
+00:00:44,667 --> 00:00:48,154
+Capture or upload the site photo, then open Mark image.
+
+14
+00:00:48,154 --> 00:00:51,641
+Draw a shape, arrow or freehand note in a clear colour.
+
+15
+00:00:51,641 --> 00:00:55,762
+The material code and your dimensions appear on the marked image.
+
+16
+00:00:56,250 --> 00:01:00,219
+Two boards made from the same material still need separate records.
+
+17
+00:01:00,219 --> 00:01:03,951
+Each item keeps its own dimensions, placement and marked views.
+
+18
+00:01:03,951 --> 00:01:06,794
+Save the marking before moving to the next item.
+
+19
+00:01:07,250 --> 00:01:09,913
+Review the complete visit before submitting.
+
+20
+00:01:09,913 --> 00:01:13,424
+Check the materials, measurements and saved marked photos.
+
+21
+00:01:13,424 --> 00:01:18,448
+Download one marked image or the job image ZIP when you need to share the evidence.
+
+22
+00:01:18,917 --> 00:01:23,550
+If something is unclear, raise a support issue by typing or recording it.
+
+23
+00:01:23,550 --> 00:01:26,026
+Track Pending, Processing and Resolved.
+
+24
+00:01:26,026 --> 00:01:31,421
+This client demo simulates support locally; it does not send messages to a real team.
+
+25
+00:01:31,875 --> 00:01:35,525
+The collected details become a clear material report.
+
+26
+00:01:35,525 --> 00:01:40,003
+Choose columns and export Excel or CSV, or print and save as PDF.
+
+27
+00:01:40,003 --> 00:01:43,722
+Open the demo link and try the field journey yourself.
+
+28
+00:01:43,722 --> 00:01:45,719
+Changes stay in your browser.

@@ -1,0 +1,17 @@
+Hello,
+
+Please try the RecceFlow interactive demo:
+https://recceflow-client-demo.distinctdigitalads1.chatgpt.site
+
+Open the link on your phone, tablet or computer. No download, installation or login is required.
+
+You can try creating/importing a job, filling site details, adding materials, marking photos with measurements, reviewing a recce, exporting reports and tracking a simulated support issue. Use the Office view / Recce view switch to explore both journeys.
+
+Phone and tablet walkthroughs in English and Hindi are here:
+https://recceflow-client-demo.distinctdigitalads1.chatgpt.site/field-videos.html
+
+This is a demonstration with sample records. Changes stay in your browser; support requests are simulated and are not sent to a real team. Save a demo backup if you would like to keep or share your changes.
+
+Please share your feedback on the field workflow, material information, marking tools and report format.
+
+Thank you.

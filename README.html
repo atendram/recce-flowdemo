@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>RecceFlow · Demo quick start</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      body {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 38px 22px;
+      }
+      li {
+        margin: 12px 0;
+        line-height: 1.7;
+      }
+      code {
+        background: #edf2e9;
+        padding: 3px 6px;
+        border-radius: 4px;
+      }
+      header {
+        padding-bottom: 25px;
+      }
+      a {
+        font-weight: 600;
+      }
+      .brand {
+        color: #173832;
+      }
+      h2 {
+        margin-top: 26px;
+      }
+      video {
+        width: 100%;
+        border-radius: 10px;
+      }
+      table td,
+      table th {
+        white-space: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="index.html"
+        ><span class="brand-mark">r.</span>Recce<span>Flow</span></a
+      >
+    </header>
+    <span class="eyebrow">Client presentation prototype</span>
+    <h1>Open it. Try a site visit.</h1>
+    <p>
+      A self-contained, interactive demonstration of the signage recce journey.
+      No login, SQL, .NET, Node, API keys or package installation is needed.
+    </p>
+    <p>
+      <a href="index.html">Open the interactive demo →</a> &nbsp;
+      <a href="videos.html">Watch English / Hindi videos →</a>
+    </p>
+    <section class="panel">
+      <h2>Start in less than a minute</h2>
+      <ol>
+        <li>
+          Extract the entire ZIP to a folder. Open <code>index.html</code> in a
+          current Microsoft Edge or Google Chrome browser. On Windows, you can
+          also double-click <code>OPEN-DEMO.cmd</code>.
+        </li>
+        <li>
+          Explore <strong>Overview</strong>, then click a summary card to see
+          the matching recce jobs.
+        </li>
+        <li>
+          Choose <strong>Recce view</strong> in the top bar, open
+          <strong>My recce</strong> and start an assigned job.
+        </li>
+        <li>
+          Enter the site's address and notes. Allow device location if you want
+          to test GPS; a typed address works when permission is unavailable.
+        </li>
+        <li>
+          Continue to <strong>Materials &amp; marking</strong>. Add separate
+          physical items, including repeated materials. Enter measurements and
+          choose or type a placement.
+        </li>
+        <li>
+          Capture/upload a photo or choose <strong>Use sample</strong>. Open
+          <strong>Mark image</strong>, draw shapes and select
+          <strong>Save marked image</strong>. Multiple views stay independent.
+        </li>
+        <li>
+          Review and submit. Close the job, switch to
+          <strong>Office view</strong>, then open it to verify or request a
+          correction. Editable jobs offer <strong>Reassign job</strong>.
+        </li>
+        <li>
+          Use <strong>Reports</strong> to filter jobs, choose/order columns, add
+          headings and export Excel/CSV. <strong>Print / Save PDF</strong> uses
+          the browser's print dialog and includes selected visible photos.
+        </li>
+      </ol>
+    </section>
+    <section class="panel">
+      <h2>Excel and CSV import</h2>
+      <p>
+        Open <strong>Recce jobs → Import template</strong> to download a genuine
+        Excel workbook. An example is also included in <code>examples/</code>.
+      </p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Column</th>
+              <th>Use</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>recce_id</td>
+              <td>Unique job reference. Existing jobs are not overwritten.</td>
+            </tr>
+            <tr>
+              <td>shop_name, client_name, site_address</td>
+              <td>Required text fields.</td>
+            </tr>
+            <tr>
+              <td>recce_person</td>
+              <td>A manually entered name. No user account is created.</td>
+            </tr>
+            <tr>
+              <td>due_date</td>
+              <td>Enter YYYY-MM-DD as text to preserve the intended date.</td>
+            </tr>
+            <tr>
+              <td>contact, instructions</td>
+              <td>Optional site contact and work details.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        Select <strong>Import Excel / CSV</strong>, review the rows, then
+        confirm. Only the first Excel worksheet is read. Use a simple
+        <code>.xlsx</code> workbook or CSV UTF-8; old <code>.xls</code>, macros
+        and password-protected workbooks are not supported. Imported jobs start
+        as Assigned. Add photos/materials during the recce.
+      </p>
+    </section>
+    <section class="panel">
+      <h2>Photos, marking and reports</h2>
+      <p>
+        Width/height, length and quantities are entered manually. Rectangle area
+        is calculated from those dimensions and quantity, with unit conversion;
+        the app does not determine real-world size from photo pixels. Shape
+        icons include Rectangle, Ellipse, Arrow, Line, Polygon and Draw. Use
+        Select or the mark list to select a mark, then Delete selected; Undo
+        removes the latest mark. To change a shape, remove/redraw it.
+      </p>
+      <p>
+        Each material supports four photo views. Uploads accept JPEG, PNG or
+        WebP under 10 MB and are compressed to fit local storage. When
+        measurements change, reopen and save the marking to refresh its
+        dimension labels before submitting.
+      </p>
+      <p>
+        Download a PNG in the marking screen, or download the job's marked-image
+        ZIP, which includes a material index. Excel/CSV contain text fields and
+        a note explaining how to obtain photos; they do not embed image bytes.
+        Use Print/Save PDF for a report with the visible selected image columns.
+        A complete JSON backup includes original compressed photos and saved
+        previews.
+      </p>
+    </section>
+    <section class="panel">
+      <h2>Voice, support and device access</h2>
+      <p>
+        Site notes and new support issues can be typed, recorded, or both. Voice
+        recording stores audio, not a transcript. Recordings are limited to 45
+        seconds / 1 MB. Allow microphone access and stop the recording before
+        leaving or submitting.
+      </p>
+      <p>
+        <strong>Support is a local simulation.</strong> Raise an issue, choose
+        Office/Developer and use View / track to reply and change Pending,
+        Processing or Resolved. You can demonstrate escalation from Office to
+        Developer. Nothing is sent to an actual team, developer or WhatsApp
+        number. Office/Recce view is a presentation switch, not an
+        authentication or permissions system.
+      </p>
+      <p>
+        Camera access depends on the device/browser; some desktop devices show a
+        file picker. Physical mobile microphone/camera/GPS testing generally
+        requires a trusted HTTPS-hosted copy. A computer's
+        <code>localhost</code> address will not open that computer's files on a
+        phone. This package has not been publicly deployed.
+      </p>
+    </section>
+    <section class="panel">
+      <h2>Keep or reset your changes</h2>
+      <p>
+        Changes save only in this browser's local storage. They do not
+        synchronise with another device, the production project or another
+        person's browser. Private browsing or clearing browser data may remove
+        them. Large numbers of photos/audio can reach the storage quota.
+      </p>
+      <p>
+        Use <strong>Save demo backup</strong> before closing or moving devices.
+        To restore or reset, use the <strong>?</strong> button in the top bar.
+        Restore accepts this demo's JSON format; it replaces the local dataset
+        after confirmation. Treat a backup containing your own photos or voice
+        as a private file.
+      </p>
+      <p>
+        This is a prototype for exploring a workflow. Multi-user collaboration,
+        protected data storage, real support delivery, production
+        approvals/audit guarantees and offline synchronisation belong to the
+        full application and are not provided by this standalone demo.
+      </p>
+    </section>
+    <footer>
+      <a href="index.html">Open demo →</a> &nbsp;
+      <a href="videos.html">Watch the product videos →</a>
+      <p class="subtle">
+        RecceFlow · prepared 30 October 2026 · fictional sample records
+      </p>
+    </footer>
+  </body>
+</html>
